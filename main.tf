@@ -27,7 +27,7 @@ variable "machine_type" {
 
 variable "instance_name" {
   description = "GCP instance name" 
-  default = "ajennings_demo"
+  default = "ajennings.demo"
 }
 
 variable "image" {
